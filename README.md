@@ -1,5 +1,5 @@
 ## To run WormGame:
 
-Execute <h4> pip install pygame </h4>
+Execute with <h6> pip install pygame </h6>
 
-Run the game with <h4>python wormgame.py </h4>
+Run the game with <h6> python wormgame.py </h6>
